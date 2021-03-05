@@ -8,11 +8,11 @@ class Localauthenticationverify < Formula
   bottle :unneeded
 
   def install
-    bin.install "LocalAuthentication-verify"
+    bin.install "la-verify"
   end
 
   test do
-    system "#{bin}/LocalAuthentication-verify"
+    system "#{bin}/la-verify"
   end
 
 end
