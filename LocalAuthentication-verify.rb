@@ -1,8 +1,8 @@
 class LocalAuthentication-Verify < Formula
   desc "CLI for LocalAuthentication"
   homepage "https://github.com/eaceto/LocalAuthentication-Verify"
-  sha256 "ae7a8801f838d0920259d8ace036db432fda1fefa714b1b999a7bdc08d1158d7"
-  url "https://github.com/eaceto/LocalAuthentication-Verify/releases/download/0.0.1/LocalAuthentication-verify-0.0.1.tar.gz"
+  sha256 "c13cab1c16fc9afe2c98e401ed7300762a57e48d7f84595c29c72cfac339156c"
+  url "https://bintray.com/eaceto/macOS-tools/download_file?file_path=LocalAuthentication-verify"
 
   bottle :unneeded
 
